@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Calculadora IMC</string>
+    <string name="massa">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="botao">Calcular</string>
+    <string name="resultado">Resultado:</string>
+
+    <string name="mapeso">Muito abaixo do peso!!!</string>
+    <string name="apeso">Abaixo do peso!!</string>
+    <string name="normal">Peso normal.</string>
+    <string name="speso">Sobrepeso!</string>
+    <string name="oipeso">Obesidade I!!</string>
+    <string name="oiipeso">Obesidade II (severa)!!</string>
+    <string name="oiiipeso">Obesidade III (mórbida)!!</string>
+
+</resources>
